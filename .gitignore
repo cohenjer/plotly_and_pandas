@@ -1,0 +1,5 @@
+#virtualenv
+cddcohen
+#jupyter checkpoints
+.ipynb_checkpoints
+my_xp_results.pkl
